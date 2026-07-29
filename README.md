@@ -212,7 +212,7 @@ Feel free to:
 
 ## 🎥 LinkedIn Video Demonstration  
 
-[![Watch on LinkedIn](https://lnkd.in/p/dysdAfeV)
+[![Watch on LinkedIn](https://img.shields.io/badge/LinkedIn-Watch%20Demo-blue?logo=linkedin)](https://lnkd.in/p/dysdAfeV)
 
 > 📌 Click the badge above to watch the full working demo of the project on LinkedIn.
 
