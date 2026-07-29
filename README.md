@@ -210,6 +210,12 @@ Feel free to:
 
 ---
 
+## 🎥 LinkedIn Video Demonstration  
+
+[![Watch on LinkedIn](https://lnkd.in/p/dysdAfeV)
+
+> 📌 Click the badge above to watch the full working demo of the project on LinkedIn.
+
 ## 💡 Final Thought
 
 > _"The safest electricity is the one that is not present unless needed."_ ⚡
